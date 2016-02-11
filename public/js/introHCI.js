@@ -42,6 +42,7 @@ function addProject(result){
 	var projId = $("#project" + result['id']);
 	$(projId.find(".details")).html(projectHTML);
 
+
 }
 
 /*
